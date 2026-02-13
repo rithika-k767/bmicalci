@@ -75,7 +75,7 @@ DB_CONFIG = {
     </ol>
 
   <hr>
-    <p align="center">Made by Rithika </p>
+    <p align="center">Made with ❤️‍🔥 by rithu</p>
 
 </body>
 
